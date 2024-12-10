@@ -1,0 +1,15 @@
+{
+  "name": "react-express-setup",
+  "version": "1.0.1",
+  "main": "setup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ashutosh",
+  "license": "ISC",
+  "description": "",
+  "bin": {
+    "react-express-setup": "setup.js"
+  }
+}
